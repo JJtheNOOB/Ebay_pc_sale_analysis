@@ -7,14 +7,20 @@ Situation:
 - So what has changed my sales? What is the root cause of the issue? How would I proceed and sell it at a statisfying price?
 
 Initial Guess:
-- GPUs and CPUs are of higher demands?
-- Do I have less competitors on the market?
-- What about the product itself? (brand reputation? price vs value?)
-- My description of the item? Photo of the item?
-- Bid / Buyout options avaliable?
-- Pricing / Expectation
+- The Market:
+  - GPUs and CPUs are of higher demands compared to other components? -- Number of products for sale at the moment
+  - Do I have less competitors on the market?  -- The secific product's for sale number
 
-KP metrics to indicate: (source from Ebay):
+- The Item:
+  - Bid / Buyout options avaliable?  -- Yes / No (price difference large, starting low, buyout high)
+  - Brand reputation -- Average rating of the brand in pc components / specific items
+  - Price - performance ratio  -- Looking for overpriced / value for money / worth it etc
+  - Description detailed enough? (Photo etc)
+
+- The expectation:
+  - Pricing Expectation  -- Item conditions, item price drop with respect to days of purchase
+
+Some metrics: (source from Ebay):
 - Listing impression: Every time my listing appears on Ebay it + 1
 - Page Reviews: # of visitors
 - CTRs: Click through rate
