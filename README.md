@@ -1,12 +1,12 @@
 # Ebay pc parts sale analysis
 
-Situation:
+__The problem & the situation:__
 - My previous pc no longer fulfills my needs of gaming, I bought new components and wanted to sell my old components. 
 - I was doing a good job selling my previous graphics cards GTX 1080 and CPU: i7-7700K
 - Recently I am trying to sell my motherboard, power supply, RAMs and water cooling system, however, I noticed that I had relisted those products several times, no luck
 - So what has changed my sales? What is the root cause of the issue? How would I proceed and sell it at a statisfying price?
 
-Initial Guess:
+__Initial Guess:__
 - The Market:
   - GPUs and CPUs are of higher demands compared to other components? -- Number of products for sale at the moment
   - Do I have less competitors on the market?  -- The secific product's for sale number
@@ -20,7 +20,7 @@ Initial Guess:
 - The expectation:
   - Pricing Expectation  -- Item conditions, item price drop with respect to days of purchase
 
-Some metrics: (source from Ebay):
+__Some metrics: (source from Ebay):__
 - Listing impression: Every time my listing appears on Ebay it + 1
 - Page Reviews: # of visitors
 - CTRs: Click through rate
