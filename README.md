@@ -26,3 +26,7 @@ __Some metrics: (source from Ebay):__
 - CTRs: Click through rate
 - Conversion Rate: final purchase out of all CTRs
 
+
+__Step 1. Scapping the data from the Ebay seller's section__
+
+
