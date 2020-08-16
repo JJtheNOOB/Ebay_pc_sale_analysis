@@ -26,9 +26,23 @@ __Some metrics: (source from Ebay):__
 - CTRs: Click through rate
 - Conversion Rate: final purchase out of all CTRs
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## __5 Forces: That I need to consider selling the product__
+
+- Rivalry among exisiting competitors: 
+  - Number of product on sold / price ranges vs conditions
+- Buy Power:
+  - Number of customer purchases the products (Not enough info to gain from)
+- Supply Power: (Not in consideration)
+- Threat of substitute:
+  - Other brands of products avaliable
+  - Maybe sell it in another selling cycle when the most powerful products are sold
+- Threat of new entrants:
+  - Almost no barrier to enter the market, ez set up and no cost upfront
+  - There might be other rivals do price competition
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-__Strategy: Customer Decision Making Process__
+## __Strategy: Customer Decision Making Process__
 
 __AIDA:__
   - __Attention__: Need attention from customer? How?
