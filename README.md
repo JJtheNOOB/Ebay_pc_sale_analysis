@@ -1,4 +1,4 @@
-# Ebay pc parts sale analysis
+# Ebay Used PC parts sale analysis
 
 __The problem & the situation:__
 - My previous pc no longer fulfills my needs of gaming, I bought new components and wanted to sell my old components. 
