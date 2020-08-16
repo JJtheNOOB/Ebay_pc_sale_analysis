@@ -28,6 +28,22 @@ __Some metrics: (source from Ebay):__
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+__Strategy: Customer Decision Making Process__
 
-
+__AIDA:__
+  - __Attention__: Need attention from customer? How?
+    - Fancy picture (real + polished)
+    - Detailed title 
+    - Ebay promotion (whether it would worth the cost)
+  - __Interest__: How do I get them interest in buying?
+    - Price (lower as possible, lower starting point / higher buyout)
+    - Brand (inheretive)
+    - Description content / specs
+  - __Desire__: convince customer that they want the product
+    - Same as interest
+    - Maybe return avaliable
+    - Services after sold
+    - Maybe adding bundles / reasons for selling
+    - Adding DM message invitation
+  - __Action__: customer take action to purchase the product
 
