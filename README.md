@@ -26,6 +26,8 @@ __Some metrics: (source from Ebay):__
 - CTRs: Click through rate
 - Conversion Rate: final purchase out of all CTRs
 
+![Sales_Metrics](https://github.com/JJtheNOOB/Ebay_pc_sale_analysis/blob/master/data/sales%20pics.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## __5 Forces: That I need to consider selling the product__
 
